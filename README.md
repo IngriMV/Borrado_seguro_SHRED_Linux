@@ -53,6 +53,9 @@ Una vez ubicado el dispositivo en este **Ejemplo** es **/dev/sdb1/**
 $sudo shred -vu -n30 /dev/sdb1
 ```
  
+Una vez terminado tenemos nuestro dispositivo de almacenamiento sanitizado. 
+
+Otra buena practica es el **cifrados de dispositivos**  para más información la guía de cifrado de la [comunidad de seguridad de ESET](https://www.welivesecurity.com/wp-content/uploads/2014/02/guia_cifrado_personal3.pdf)
 
 
 
