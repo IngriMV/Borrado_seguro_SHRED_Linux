@@ -1,4 +1,4 @@
-# Borrado seguro con la herramienta de Linux llamada SHRED
+# Borrado seguro con la herramienta SHRED de Linux 
 
 Muchas veces realizamos la eliminación de un archivo de una USB o de nuestra propia máquina, paso siguiente vacear papelera de reciclaje. **¿Qué pensaría si le afirmarán que esto no es suficiente?**...muchas veces perdemos nuestros dispositivos de almacenamiento portables, por cosas del destino algun mal intensionado las encuentra y con herramientas forenses adecuadas puede  rescatar la información que pensabamos que habíamos eliminado y la clasificamos como **privada**.
 
@@ -42,7 +42,7 @@ Las opciones que tenemos:
 $ shred -n30 -uvz archivo.txt
 ```
 
-## Para un dispositivo USB ejecutamos en la terminal para determinar su nombre
+## Para un dispositivo USB ejecutamos en la terminal el siguiente comando 
 
 ```
 $ sudo fdisk -l
