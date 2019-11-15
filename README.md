@@ -21,8 +21,9 @@ Alguna de las herramientas forenses más conocidas son:
  Para más información el *portal del Instituto Nacional de Estándares y Tecnología (NIST, por sus siglas en inglés)* de los Estados Unidos que cuenta con un catalogo de herramientas necesarias para análisis Forense [NIST](https://toolcatalog.nist.gov/search/index.php?all_tools=all&ff_id=17&1%5B%5D=1) segun su necesidad.
  
  
- 
- Muchas veces prestamos nuestros dispositivos USB si no quieres que alguien mal intencionado encuentre información no deseada el sistyema operativo **Linux** cuenta con la herramienta **SHRED** y hace parte del paquete coreutils. sobrescribir un archivo para ocultar su contenido y, opcionalmente, eliminarlo.
+Frecuentemente prestamos nuestros dispositivos de almacenamiento,  y nos ariesgamos a que alguien externo tenga acceso a nuestra información que creiamos correctamente destruida.
+
+El sistema operativo **Linux** cuenta con la herramienta **SHRED** y hace parte del paquete coreutils. sobrescribir un archivo para ocultar su contenido y, opcionalmente, eliminarlo.
  
 Abrimos una terminal y ejecutamos el comando
 
